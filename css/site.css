@@ -261,6 +261,7 @@ a:hover .teams-s { text-decoration: underline; }
 .menu-k { font-family: var(--disp); font-weight: 800; text-transform: uppercase; }
 .menu-nav a { font-size: 2rem; line-height: 1.1; text-transform: uppercase; border-bottom: 1px solid rgba(255, 255, 255, .2); }
 .menu-nav a[aria-current="page"] { text-decoration: underline; text-underline-offset: 6px; }
+.menu :focus-visible { outline-color: #fff; }
 
 /* rozcestník */
 .ix-top .wrap { padding-top: 34px; padding-bottom: 18px; }
@@ -290,7 +291,7 @@ a.ix-a:hover .ix-go .i { transform: translateX(4px); }
 
 /* zápasy a tabuľka */
 .fx { border-bottom: 1px solid var(--line); }
-.fx-a { grid-template-columns: 54px minmax(0, 1fr) auto; min-height: 54px; padding: 5px 0; }
+.fx-a { grid-template-columns: 62px minmax(0, 1fr) auto; min-height: 54px; padding: 5px 0; }
 .fx-d { font: 800 .875rem/1.1 var(--disp); }
 .fx-dd { font: italic 400 .8125rem/1.3 var(--text); color: var(--muted); }
 .fx-on { font-weight: 600; line-height: 1.25; }
@@ -319,6 +320,7 @@ a.ix-a:hover .ix-go .i { transform: translateX(4px); }
 .mc { padding: 22px 20px 16px; border: 2px solid var(--ink); border-radius: 0; }
 .mc-label { font-weight: 600; }
 .mc-mid { font-size: 3rem; }
+@media (max-width: 379.98px) { .mc { padding: 18px 12px 14px; } .mc-row { gap: 8px; } .mc-mid { font-size: 2.25rem; } .mc-name { font-size: 1rem; } }
 .chip { border: 0; border-radius: 0; background: #fff; color: var(--ink); box-shadow: inset 0 0 0 1px var(--ink); }
 .chip[aria-pressed="true"] { background: var(--ink); color: #fff; }
 .teams a { border-bottom: 1px solid var(--line); }
