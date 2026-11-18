@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FK Melčice-Lieskové//Zapasy//SK
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FK Melčice-Lieskové – Mladší žiaci U13
+X-WR-TIMEZONE:Europe/Bratislava
+BEGIN:VTIMEZONE
+TZID:Europe/Bratislava
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:zapas-6a4f3c39d14e91f303251092@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20260905T103000
+DURATION:PT2H
+SUMMARY:U13: FK Melčice-Lieskové U13 – OFK Slovan Skalka nad Váhom
+DESCRIPTION:IV. liga mladších žiakov U13\, 5. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4f3c39d14e91f303251190@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20260924T163000
+DURATION:PT2H
+SUMMARY:U13: TJ Lokomotíva Trenčianska Teplá – FK Melčice-Lieskové 
+ U13 0:5
+DESCRIPTION:IV. liga mladších žiakov U13\, 6. kolo\nZápas vonku
+LOCATION:Futbalový štadión TJ Lokomotíva Trenčianska Teplá
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4f3c39d14e91f30325137f@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20260926T103000
+DURATION:PT2H
+SUMMARY:U13: TJ Slovan Trenčianska Turná – FK Melčice-Lieskové U13 2
+ :1
+DESCRIPTION:IV. liga mladších žiakov U13\, 8. kolo\nZápas vonku
+LOCATION:TJ Slovan Trenčianska Turná
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4f3c39d14e91f303251251@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20260929T163000
+DURATION:PT2H
+SUMMARY:U13: FK Melčice-Lieskové U13 – TJ Žihlavník Omšenie 7:3
+DESCRIPTION:IV. liga mladších žiakov U13\, 7. kolo\nDomáci zápas
+LOCATION:Futbalový štadión Melčice-Lieskové
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4f3c3ad14e91f3032516e6@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20261003T103000
+DURATION:PT2H
+SUMMARY:U13: FK Melčice-Lieskové U13 – TFK Opatová 3:4
+DESCRIPTION:IV. liga mladších žiakov U13\, 9. kolo\nDomáci zápas
+LOCATION:Futbalový štadión Melčice-Lieskové
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4f3c38d14e91f3032509f1@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20261010T103000
+DURATION:PT2H
+SUMMARY:U13: FK Melčice-Lieskové U13 – TJ Slovan Horňany 7:3
+DESCRIPTION:IV. liga mladších žiakov U13\, 1. kolo\nDomáci zápas
+LOCATION:Futbalový štadión Melčice-Lieskové
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4f3c38d14e91f303250afa@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20261017T103000
+DURATION:PT2H
+SUMMARY:U13: Sokol FC Chocholná-Velčice – FK Melčice-Lieskové U13 0:
+ 3
+DESCRIPTION:IV. liga mladších žiakov U13\, 2. kolo\nZápas vonku
+LOCATION:Štadión Chocholná
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4f3c38d14e91f303250c86@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20261024T103000
+DURATION:PT2H
+SUMMARY:U13: FK Melčice-Lieskové U13 – TJ Inovec Trenčianske Jastrabi
+ e 3:0
+DESCRIPTION:IV. liga mladších žiakov U13\, 3. kolo\nDomáci zápas
+LOCATION:Futbalový štadión Melčice-Lieskové
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4f3c38d14e91f303250db2@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20261031T103000
+DURATION:PT2H
+SUMMARY:U13: FKS Nemšová – FK Melčice-Lieskové U13 2:4
+DESCRIPTION:IV. liga mladších žiakov U13\, 4. kolo\nZápas vonku
+LOCATION:FK Slovan Nemšová
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4f3c3ad14e91f3032517a6@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20270410T103000
+DURATION:PT2H
+SUMMARY:U13: TJ Štart Svinná – FK Melčice-Lieskové U13
+DESCRIPTION:IV. liga mladších žiakov U13\, 10. kolo\nZápas vonku
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4f3c3ad14e91f30325175d@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20270417T103000
+DURATION:PT2H
+SUMMARY:U13: FK Melčice-Lieskové U13 – OŠK Soblahov
+DESCRIPTION:IV. liga mladších žiakov U13\, 11. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4f3c3bd14e91f303251e48@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20270424T103000
+DURATION:PT2H
+SUMMARY:U13: TJ Tatran Bobot – FK Melčice-Lieskové U13
+DESCRIPTION:IV. liga mladších žiakov U13\, 12. kolo\nZápas vonku
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4f3c3ad14e91f30325184f@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20270501T103000
+DURATION:PT2H
+SUMMARY:U13: FK Melčice-Lieskové U13 – ZFC 1939 Trenčín B
+DESCRIPTION:IV. liga mladších žiakov U13\, 13. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4f3c3ad14e91f303251a88@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20270508T103000
+DURATION:PT2H
+SUMMARY:U13: FK Horná Súča – FK Melčice-Lieskové U13
+DESCRIPTION:IV. liga mladších žiakov U13\, 14. kolo\nZápas vonku
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4f3c3ad14e91f303251ab7@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20270515T103000
+DURATION:PT2H
+SUMMARY:U13: FK Melčice-Lieskové U13 – TJ Cementár Horné Srnie
+DESCRIPTION:IV. liga mladších žiakov U13\, 15. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4f3c3bd14e91f303251db8@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20270522T103000
+DURATION:PT2H
+SUMMARY:U13: TJ Slovan Zamarovce – FK Melčice-Lieskové U13
+DESCRIPTION:IV. liga mladších žiakov U13\, 16. kolo\nZápas vonku
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4f3c3bd14e91f303251fff@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20270529T103000
+DURATION:PT2H
+SUMMARY:U13: FK Melčice-Lieskové U13 – FK Vlára Ľuborča
+DESCRIPTION:IV. liga mladších žiakov U13\, 17. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4f3c3cd14e91f303252341@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20270605T103000
+DURATION:PT2H
+SUMMARY:U13: FK Melčice-Lieskové U13 – OŠK Trenčianske Stankovce
+DESCRIPTION:IV. liga mladších žiakov U13\, 18. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4f3c3cd14e91f30325242c@futbal-fk-melcice-lieskove.sportnet
+DTSTAMP:20261118T065416Z
+DTSTART;TZID=Europe/Bratislava:20270612T103000
+DURATION:PT2H
+SUMMARY:U13: TTS Trenčín – FK Melčice-Lieskové U13
+DESCRIPTION:IV. liga mladších žiakov U13\, 19. kolo\nZápas vonku
+END:VEVENT
+END:VCALENDAR
