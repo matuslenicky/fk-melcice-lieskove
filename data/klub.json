@@ -1,0 +1,93 @@
+{
+  "_zdroj": "Ručne zapísané len zo zverejnených zdrojov (uvedené pri každej časti). Nič nedopĺňať odhadom – chýbajúce údaje dodá klub.",
+  "nazov": "FK Melčice-Lieskové",
+  "kratky": "Melčice-Lieskové",
+  "pravnyNazov": "FUTBAL – FK Melčice-Lieskové",
+  "_pravnyNazov": "Sportnet (FUTBAL - FK MELČICE - LIESKOVÉ)",
+  "mesto": "Melčice-Lieskové",
+  "zalozenie": null,
+  "_zalozenie": "rok založenia sme vo verejných zdrojoch nenašli (web obce, Melčicko-lieskovský Elán, Sportnet; 18. 11. 2026) – doplní klub",
+  "farby": "čierna a biela",
+  "_farby": "erb klubu (Sportnet): čiernobiely monogram ML s loptou",
+  "erbAlt": "Erb FK Melčice-Lieskové: čiernobiely štít s monogramom ML a futbalovou loptou",
+  "adresa": ["913 05 Melčice-Lieskové"],
+  "_adresa": "Sportnet (Futbalový štadión Melčice-Lieskové, PSČ 913 05)",
+  "kontakt": { "email": "peterstefak@centrum.sk" },
+  "_kontakt": "Sportnet (kontakt klubu)",
+  "trener": "Jozef Čaňo",
+  "_trener": "Melčicko-lieskovský Elán 1/2026 (Futbalová jar): mužstvo do jarnej časti 2025/26 vedie tréner Jozef Čaňo",
+  "sportnetUrl": "https://sportnet.sme.sk/futbalnet/k/futbal-fk-melcice-lieskove/",
+  "obecWeb": "https://www.melcice-lieskove.sk/",
+  "obecKlub": "https://www.melcice-lieskove.sk/zivot-v-obci/melcicko-lieskovsky-elan/",
+  "stadion": {
+    "_zdroj": "Sportnet (názov, poloha), Melčicko-lieskovský Elán 2/2025",
+    "nazov": "Futbalový štadión Melčice-Lieskové",
+    "geo": [48.8421702, 17.9133555],
+    "fakty": [
+      { "k": "Zázemie", "t": "Šatne futbalistov sú súčasťou kultúrneho domu. Jeho rekonštrukcia na jar 2025 výrazne obmedzila súťaž, obec s výborom klubu pripravuje nové alebo obnovené šatne." }
+    ]
+  },
+  "kronika": {
+    "_zdroj": "Melčicko-lieskovský Elán 2/2025 (Veľká výhra futbalistov) a 1/2026 (Futbalová jar), Sportnet",
+    "zoznam": [
+      { "rok": "2017/18", "text": "Víťaz VII. ligy Sever ObFZ Trenčín o bod pred Dolnou Súčou, 89 gólov v 27 zápasoch." },
+      { "rok": "2020/21", "text": "3. miesto v V. lige Sever, najvyššej súťaži, ktorú áčko hralo v ročníkoch na Sportnete." },
+      { "rok": "2024/25", "text": "Majster VI. ligy Sever, s rovnakým počtom bodov ako Opatová. Titul prišiel napriek tomu, že rekonštrukcia kultúrneho domu so šatňami obmedzila jarnú časť." },
+      { "rok": "Jar 2026", "text": "Do súťaží sa po dlhšej prestávke vracajú žiaci U15, U13, U11 a U9. V zime trénovali v športovej hale." }
+    ]
+  },
+  "rocniky": {
+    "_zdroj": "Sportnet – konečné tabuľky áčka (dospelí), stiahnuté 18. 11. 2026",
+    "zoznam": [
+      { "rok": "2014/15", "liga": "VII. liga Sever ObFZ Trenčín", "poz": 8, "z": 14, "skore": "65:53", "body": 37 },
+      { "rok": "2015/16", "liga": "VII. liga Sever ObFZ Trenčín", "poz": 6, "z": 10, "skore": "49:69", "body": 35 },
+      { "rok": "2016/17", "liga": "VII. liga Sever ObFZ Trenčín", "poz": 3, "z": 10, "skore": "60:52", "body": 44 },
+      { "rok": "2017/18", "liga": "VII. liga Sever ObFZ Trenčín", "poz": 1, "z": 10, "skore": "89:49", "body": 53, "titul": true, "pozn": "o bod pred Dolnou Súčou" },
+      { "rok": "2018/19", "liga": "VI. liga ObFZ Trenčín", "poz": 4, "z": 16, "skore": "63:47", "body": 44 },
+      { "rok": "2019/20", "liga": "VI. liga ObFZ Trenčín", "poz": 4, "z": 16, "skore": "31:21", "body": 27, "pozn": "15 zápasov" },
+      { "rok": "2020/21", "liga": "V. liga Sever", "poz": 3, "z": 16, "skore": "43:31", "body": 28, "pozn": "15 zápasov" },
+      { "rok": "2021/22", "liga": "V. liga Sever", "poz": 12, "z": 16, "skore": "40:51", "body": 37 },
+      { "rok": "2022/23", "liga": "VI. liga Sever", "poz": 2, "z": 14, "skore": "57:30", "body": 53, "pozn": "o bod za Pruským" },
+      { "rok": "2023/24", "liga": "VI. liga Sever", "poz": 10, "z": 16, "skore": "47:55", "body": 40 },
+      { "rok": "2024/25", "liga": "VI. liga Sever", "poz": 1, "z": 16, "skore": "58:43", "body": 57, "titul": true, "pozn": "rovnako bodov ako Opatová" },
+      { "rok": "2025/26", "liga": "VI. liga Sever", "poz": 12, "z": 16, "skore": "42:55", "body": 31 }
+    ]
+  },
+  "uspechy": [
+    { "rok": "2024/25", "text": "majster VI. ligy Sever" },
+    { "rok": "2020/21", "text": "3. miesto v V. lige Sever" },
+    { "rok": "2017/18", "text": "víťaz VII. ligy Sever ObFZ Trenčín" }
+  ],
+  "obec": {
+    "_zdroj": "web obce Melčice-Lieskové (História, Symboly obce, Pamätná izba Jána Čieteka Smreka)",
+    "fakty": [
+      { "k": "1975", "t": "Obec vznikla zlúčením Melčíc a Zemianskeho Lieskového, ktoré sa už v roku 1914 spojilo s Malými Žabokrekmi." },
+      { "k": "Pravek", "t": "Sídlisko lužickej kultúry z mladšej doby bronzovej v lokalite Hradná, veľkomoravské pohrebisko a poklad viedenských fenigov a pražských grošov v Zemianskom Lieskovom." },
+      { "k": "Erb", "t": "Zo strieborno-zlatého štiepeného štítu vyrastajú tri modré kvety; dve polovice štítu pripomínajú dve obce." },
+      { "k": "Ján Smrek", "t": "Obec má pamätnú izbu a park básnika Jána Smreka (Ján Čietek Smrek) a jeho meno nesie aj základná škola." }
+    ]
+  },
+  "sutaze": {
+    "_pozn": "čitateľné názvy súťaží namiesto skratiek a názvov so sponzormi zo Sportnetu",
+    "Slovnaft Cup": "Slovnaft Cup",
+    "VI. liga  Sever  Macron | yoursport  ZsFZ": "VI. liga Sever",
+    "IV. liga SŽ U15 - ObFZ TN": "IV. liga starších žiakov U15",
+    "IV. liga MŽ U13 - ObFZ TN": "IV. liga mladších žiakov U13",
+    "III. liga U11 - ObFZ TN": "III. liga prípraviek U11",
+    "III. liga U09 - ObFZ TN": "III. liga prípraviek U9"
+  },
+  "nazvy": {
+    "_pozn": "čitateľné názvy súperov namiesto úradných názvov a veľkých písmen zo Sportnetu",
+    "FUTBAL - FK MELČICE - LIESKOVÉ": "FK Melčice-Lieskové",
+    "TJ Plevník - Drienové": "TJ Plevník-Drienové",
+    "Trenčiansky Futbalový Klub Opatová": "TFK Opatová",
+    "Futbalový klub Nová Dubnica": "FK Nová Dubnica",
+    "FUTBAL - TTS TRENČÍN B": "TTS Trenčín B",
+    "FUTBAL - TTS TRENČÍN": "TTS Trenčín",
+    "TJ Lokomotíva - Trenčianska Teplá": "TJ Lokomotíva Trenčianska Teplá",
+    "Sokol FC Chocholná - Velčice": "Sokol FC Chocholná-Velčice",
+    "Futbalový klub Kľúčové": "FK Kľúčové",
+    "Obecný futbalový klub Veľká Hradná": "OFK Veľká Hradná",
+    "Telovýchovná jednota Štart Svinná": "TJ Štart Svinná"
+  }
+}
