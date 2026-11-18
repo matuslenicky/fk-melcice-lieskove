@@ -19,7 +19,7 @@ Web sa skladá zo spoločného jadra v2 (`kluby-siet/engine`: `python assemble.p
 
 - Zápasy, výsledky, strelci, karty, počty divákov, zostavy dospelých, tabuľky a súpisky 5 tímov (áčko, U15, U13, U11, U9) zo Sportnetu (Futbalnet), verejné API súťaží (`scripts/sportnet.mjs` → `data/sportnet.json`). Vek hráčov sa neukladá, zostavy len pri dospelých.
 - Ročníky áčka 2014/15 – 2025/26 z konečných tabuliek na Sportnete, tituly 2017/18 (VII. liga Sever ObFZ Trenčín) a 2024/25 (VI. liga Sever) (`data/klub.json`).
-- Titul 2024/25 a rekonštrukcia kultúrneho domu so šatňami z obecných novín Melčicko-lieskovský Elán 2/2025, návrat žiakov do súťaží a tréner áčka z Elánu 1/2026. Obec podľa webu obce (História, Symboly obce). Rok založenia klubu sme vo verejných zdrojoch nenašli, doplní klub.
+- Titul 2024/25 a rekonštrukcia kultúrneho domu so šatňami z obecných novín Melčicko-lieskovský Elán 2/2025, návrat žiakov do súťaží z Elánu 1/2026, dokončená rekonštrukcia a tréner áčka Patrik Krajčovič z Elánu 3/2025 a 2/2026. Obec podľa webu obce (História, Symboly obce). Rok založenia klubu sme vo verejných zdrojoch nenašli, doplní klub.
 - E-mail zo Sportnetu. Vlastný web ani sociálne siete klubu sme nenašli (18. 11. 2026).
 - Erb klubu a erby súperov zo Sportnetu (`scripts/logos.py`). Patria príslušným klubom.
 - Písmo Archivo a Brygada 1918, licencia SIL Open Font License 1.1 (`scripts/fonts.py`, rovné číslice sú zapečené do písma).

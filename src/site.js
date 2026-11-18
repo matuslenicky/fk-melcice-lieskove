@@ -24,7 +24,7 @@ add('', {
     const rows = [
       n && row('01', `${R}${n.url}`, wl ? 'Po zimnej prestávke' : 'Najbližší zápas', glueAbbr(esc(n.opponent)), `${dLong(n.date)}${n.time ? `, ${esc(n.time)}` : ''} · ${n.home ? 'doma' : 'vonku'}`),
       l && row('02', `${R}${l.url}`, 'Posledný výsledok', `${l.gf}:${l.ga}`, `${l.home ? 'doma' : 'vonku'} proti ${esc(l.opponent)}, ${dShort(l.date)}`),
-      A.table && row('03', `${R}tabulky/`, 'Tabuľka', `${A.pos}. miesto`, `${esc(A.leagueName)}, ${zo(A.of)}`),
+      A.table && row('03', `${R}tabulky/`, 'Tabuľka', `${A.pos}. miesto`, `${zo(A.of)} tímov ${vLige(A.leagueName)}`),
       youth.length && row('04', `${R}timy/`, 'Žiaci', youth.map((t) => esc(t.short)).join(' · '), 'od jari 2026 znova v súťaži'),
       row('05', `${R}klub/`, 'Klub', 'Majster 2024/25', 'VI. liga Sever, ročníky od 2014/15'),
     ].filter(Boolean);
@@ -49,6 +49,6 @@ add('klub/', {
 <section class="sec sec--line"><div class="wrap cols2">
   <div><h2 class="h2">${esc(ST.nazov)}</h2>${facts(ST.fakty)}
     <p class="btns"><a class="btn btn--line" href="https://www.google.com/maps/dir/?api=1&amp;destination=${ST.geo.join(',')}" rel="noopener">Navigovať na štadión</a></p></div>
-  <div><h2 class="h2">Melčice-Lieskové</h2>${facts(club.obec.fakty)}<p class="note">Zdroje: Sportnet, web obce Melčice-Lieskové, Melčicko-lieskovský Elán 2/2025 a 1/2026.</p></div>
+  <div><h2 class="h2">Melčice-Lieskové</h2>${facts(club.obec.fakty)}<p class="note">Zdroje: Sportnet, web obce Melčice-Lieskové, Melčicko-lieskovský Elán 2/2025 až 2/2026.</p></div>
 </div></section>`,
 });

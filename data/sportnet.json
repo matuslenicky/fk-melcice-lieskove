@@ -2,7 +2,7 @@
  "source": "Sportnet / Futbalnet",
  "appSpace": "futbal-fk-melcice-lieskove.futbalnet.sk",
  "season": "2026/2027",
- "updated": "2026-11-18T06:46:17.217Z",
+ "updated": "2026-11-18T06:54:15.796Z",
  "teams": [
   {
    "slug": "a-muzstvo",
@@ -875,7 +875,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/1/zapas/929345",
    "half": "0:0",
    "referee": "Maroš Majcher",
-   "audience": 300,
    "lineups": {
     "our": {
      "start": [
@@ -1214,6 +1213,7 @@
      }
     ]
    },
+   "audience": 300,
    "detail": true
   },
   {
@@ -1321,7 +1321,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/954301",
    "half": "0:1",
    "referee": "Pavol Pastorek",
-   "audience": 150,
    "lineups": {
     "our": {
      "start": [
@@ -1653,6 +1652,7 @@
      }
     ]
    },
+   "audience": 150,
    "detail": true
   },
   {
@@ -1712,7 +1712,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/954306",
    "half": "1:1",
    "referee": "Martin Drábik",
-   "audience": 100,
    "lineups": {
     "our": {
      "start": [
@@ -1979,6 +1978,7 @@
      }
     ]
    },
+   "audience": 100,
    "detail": true
   },
   {
@@ -2204,7 +2204,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/954316",
    "half": "0:0",
    "referee": "Ivan Gembický",
-   "audience": 150,
    "lineups": {
     "our": {
      "start": [
@@ -2503,6 +2502,7 @@
      }
     ]
    },
+   "audience": 150,
    "detail": true
   },
   {
@@ -2574,7 +2574,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/954319",
    "half": "1:1",
    "referee": "Tomáš Uhlík",
-   "audience": 100,
    "lineups": {
     "our": {
      "start": [
@@ -2885,6 +2884,7 @@
      }
     ]
    },
+   "audience": 100,
    "detail": true
   },
   {
@@ -3172,7 +3172,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/954331",
    "half": "0:1",
    "referee": "Juraj Puschenreiter",
-   "audience": 120,
    "lineups": {
     "our": {
      "start": [
@@ -3497,6 +3496,7 @@
      }
     ]
    },
+   "audience": 120,
    "detail": true
   },
   {
@@ -3791,7 +3791,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/954332",
    "half": "2:0",
    "referee": "Blažej Hrabaj",
-   "audience": 100,
    "lineups": {
     "our": {
      "start": [
@@ -4096,6 +4095,7 @@
      }
     ]
    },
+   "audience": 100,
    "detail": true
   },
   {
@@ -4249,7 +4249,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/954345",
    "half": "1:1",
    "referee": "Tomáš Hulínek",
-   "audience": 120,
    "lineups": {
     "our": {
      "start": [
@@ -4581,6 +4580,7 @@
      }
     ]
    },
+   "audience": 120,
    "detail": true
   },
   {
@@ -5157,7 +5157,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/954358",
    "half": "1:0",
    "referee": "Jozef Flóriš",
-   "audience": 400,
    "lineups": {
     "our": {
      "start": [
@@ -5444,6 +5443,7 @@
      }
     ]
    },
+   "audience": 400,
    "detail": true
   },
   {
@@ -5805,7 +5805,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/954362",
    "half": "0:0",
    "referee": "Tadeáš Paliesek",
-   "audience": 150,
    "lineups": {
     "our": {
      "start": [
@@ -6105,6 +6104,7 @@
      }
     ]
    },
+   "audience": 150,
    "detail": true
   },
   {
@@ -6410,7 +6410,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/954371",
    "half": "0:2",
    "referee": "Martin Magdolen",
-   "audience": 112,
    "lineups": {
     "our": {
      "start": [
@@ -6696,6 +6695,7 @@
      }
     ]
    },
+   "audience": 112,
    "detail": true
   },
   {
@@ -6929,7 +6929,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/954377",
    "half": "4:1",
    "referee": "Martin Manina",
-   "audience": 103,
    "lineups": {
     "our": {
      "start": [
@@ -7207,6 +7206,7 @@
      }
     ]
    },
+   "audience": 103,
    "detail": true
   },
   {
@@ -7447,7 +7447,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/954384",
    "half": "0:2",
    "referee": "Tomáš Pollák",
-   "audience": 112,
    "lineups": {
     "our": {
      "start": [
@@ -7765,6 +7764,7 @@
      }
     ]
    },
+   "audience": 112,
    "detail": true
   },
   {
