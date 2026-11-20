@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:zapas-6a418572e5a4847e6226de90@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20260801T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Melčice-Lieskové – PFK Piešťany 2:3
@@ -33,7 +33,7 @@ LOCATION:Futbalový štadión Melčice-Lieskové
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e44d14e91f303297046@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20260809T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: OŠK Slovan Beckov – FK Melčice-Lieskové 3:4
@@ -42,7 +42,7 @@ LOCATION:OŠK Slovan Beckov
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e43d14e91f303296cdb@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20260815T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Melčice-Lieskové – TJ Plevník-Drienové 1:3
@@ -51,7 +51,7 @@ LOCATION:Futbalový štadión Melčice-Lieskové
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e45d14e91f3032972c1@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20260823T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Vápeč Horná Poruba – FK Melčice-Lieskové 4:0
@@ -60,7 +60,7 @@ LOCATION:Horná Poruba
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e43d14e91f303296dde@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20260829T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Nová Dubnica – FK Melčice-Lieskové 3:1
@@ -69,7 +69,7 @@ LOCATION:FK Nová Dubnica - futbalový štadión
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e45d14e91f303297395@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20260906T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Považan Pruské – FK Melčice-Lieskové 2:3
@@ -78,7 +78,7 @@ LOCATION:Futbalový štadión TJ Považan Pruské
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e45d14e91f303297521@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20260913T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Štart Tuchyňa – FK Melčice-Lieskové 6:0
@@ -87,7 +87,7 @@ LOCATION:TJ Štart Tuchyňa
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e46d14e91f303297902@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20260919T153000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Melčice-Lieskové – FKS Nemšová 1:4
@@ -96,7 +96,7 @@ LOCATION:Futbalový štadión Melčice-Lieskové
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e45d14e91f30329765b@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20260927T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Košeca – FK Melčice-Lieskové
@@ -104,7 +104,7 @@ DESCRIPTION:VI. liga Sever\, 8. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e46d14e91f3032977b5@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20261003T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Melčice-Lieskové – TJ Spartak Lysá pod Makytou
@@ -114,7 +114,7 @@ LOCATION:Futbalový štadión Melčice-Lieskové
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e46d14e91f3032978f3@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20261010T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Kľúčové – FK Melčice-Lieskové 0:2
@@ -123,7 +123,7 @@ LOCATION:Futbalový štadión Kľúčové
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e46d14e91f30329788d@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20261017T140000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Melčice-Lieskové – TJ Slovan Košecké Podhradi
@@ -133,7 +133,7 @@ LOCATION:Futbalový štadión Melčice-Lieskové
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e47d14e91f303297ce3@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20261024T140000
 DURATION:PT2H
 SUMMARY:A-mužstvo: OŠK Podolie – FK Melčice-Lieskové 5:2
@@ -142,7 +142,7 @@ LOCATION:Futbalový štadión OŠK Podolie
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e46d14e91f30329789f@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20261031T140000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Melčice-Lieskové – TJ Tatran Cementáreň Ladce
@@ -152,7 +152,7 @@ LOCATION:Futbalový štadión Melčice-Lieskové
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e47d14e91f303297bb1@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20270321T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Melčice-Lieskové – OŠK Slovan Beckov
@@ -160,7 +160,7 @@ DESCRIPTION:VI. liga Sever\, 14. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e47d14e91f303297da9@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20270328T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Plevník-Drienové – FK Melčice-Lieskové
@@ -168,7 +168,7 @@ DESCRIPTION:VI. liga Sever\, 15. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e47d14e91f303297d72@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20270404T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Melčice-Lieskové – TJ Vápeč Horná Poruba
@@ -176,7 +176,7 @@ DESCRIPTION:VI. liga Sever\, 16. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e47d14e91f303297e8d@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20270411T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Melčice-Lieskové – FK Nová Dubnica
@@ -184,7 +184,7 @@ DESCRIPTION:VI. liga Sever\, 17. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e47d14e91f303297f82@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20270418T163000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Melčice-Lieskové – TJ Považan Pruské
@@ -192,7 +192,7 @@ DESCRIPTION:VI. liga Sever\, 18. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e47d14e91f303297f6c@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20270425T163000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Melčice-Lieskové – TJ Štart Tuchyňa
@@ -200,7 +200,7 @@ DESCRIPTION:VI. liga Sever\, 19. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e47d14e91f303297ff7@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20270502T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FKS Nemšová – FK Melčice-Lieskové
@@ -208,7 +208,7 @@ DESCRIPTION:VI. liga Sever\, 20. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e48d14e91f303298175@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20270509T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Melčice-Lieskové – FK Košeca
@@ -216,7 +216,7 @@ DESCRIPTION:VI. liga Sever\, 21. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e47d14e91f303297ff8@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20270516T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Spartak Lysá pod Makytou – FK Melčice-Lieskové
@@ -224,7 +224,7 @@ DESCRIPTION:VI. liga Sever\, 22. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e48d14e91f3032982bb@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20270523T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Melčice-Lieskové – FK Kľúčové
@@ -232,7 +232,7 @@ DESCRIPTION:VI. liga Sever\, 23. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e48d14e91f30329812c@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20270530T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Košecké Podhradie – FK Melčice-Lieskov
@@ -241,7 +241,7 @@ DESCRIPTION:VI. liga Sever\, 24. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e48d14e91f303298537@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20270606T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Melčice-Lieskové – OŠK Podolie
@@ -249,7 +249,7 @@ DESCRIPTION:VI. liga Sever\, 25. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4f3e49d14e91f3032986bf@futbal-fk-melcice-lieskove.sportnet
-DTSTAMP:20261119T114034Z
+DTSTAMP:20261120T114054Z
 DTSTART;TZID=Europe/Bratislava:20270613T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Tatran Cementáreň Ladce – FK Melčice-Lieskové
